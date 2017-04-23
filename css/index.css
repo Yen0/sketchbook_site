@@ -1,0 +1,98 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.7 Helvetica;
+  color: rgb(0,0,0);
+}
+
+.container {
+  position: relative;
+  float: left;
+  z-index: 0;
+  width: 52.8333333333%;
+  height: 213px;
+  margin-left: 23.5833333333%;
+  background-image: url('../images/IMG_138010%20books.JPG');
+  background-size: auto auto;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.element {
+  float: left;
+  width: 12%;
+  height: 109px;
+  margin-top: 61px;
+  background-color: rgb(150, 242, 202);
+}
+
+.text {
+  float: left;
+  margin-left: 23.5833333333%;
+  color: rgb(0,0,0);
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 1;
+  width: 308px;
+  height: 62px;
+  margin: -79px 0 0 25.1666666666%;
+  border-radius: 3px;
+  font: 100 3em/1.38 Roboto;
+  text-align: left;
+  color: rgb(255, 255, 255);
+}
+
+._input {
+  display: block;
+  float: left;
+  clear: both;
+  width: 20.4166666666%;
+  height: 32px;
+  margin: 8px 0 0 23.5833333333%;
+  padding: 0 10px;
+  background-color: rgb(242, 242, 242);
+  font: 400 0.813em/1.38 Roboto;
+  color: rgb(0, 0, 0);
+}
+
+.element-1 {
+  clear: both;
+  margin-left: 23.5833333333%;
+}
+
+.element-3 {
+  margin-left: 1.6666666666%;
+}
+
+.element-2,
+.element-4 {
+  margin-left: 1.5833333333%;
+}
+
+.text-1 {
+  width: 13.5833333333%;
+  min-height: 23px;
+  margin-top: 60px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 1.38;
+}
+
+.text-2 {
+  clear: both;
+  width: 52.8333333333%;
+  min-height: 219px;
+  margin-top: 21px;
+}
+
+._button-1 {
+  font: !consolidated !consolidated !consolidated;
+}
+
+._input-1 {
+  font: !consolidated !consolidated !consolidated;
+}
